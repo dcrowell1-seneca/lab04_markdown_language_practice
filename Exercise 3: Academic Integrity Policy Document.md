@@ -71,12 +71,12 @@ online synchronously or asynchronously.
 
 # Policy
 1. General
-   1. Seneca upholds a learning community that values academic integrity, honesty, fairness, trust, respect, responsibility and courage.
+   1. Seneca upholds a **learning community** that values academic integrity, honesty, fairness, trust, respect, responsibility and courage.
    2. Seneca is committed to delivering high-quality education and teaching excellence while supporting a positive, equitable and
    inclusive learning environment.  
 
 2. Academic integrity program
-   1. Academic integrity is fundamental to ensure the academic credentials granted by Seneca accurately demonstrate the knowledge and
+   1. **Academic integrity** is fundamental to ensure the academic credentials granted by Seneca accurately demonstrate the knowledge and
    learning of students from all backgrounds and experiences.
    2. The integrated nature of the program requires that policy and procedure, development and training for faculty, along with training
    sessions and student life programming, be aligned with the institutional philosophies and approaches to academic integrity.
