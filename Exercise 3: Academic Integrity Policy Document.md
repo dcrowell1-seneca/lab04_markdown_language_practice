@@ -99,58 +99,47 @@ online synchronously or asynchronously.
    Student Code of Conduct.
 
 # Supporting documentation
-Appendix A: Academic Integrity Procedures
-Appendix B: Academic Integrity Sanctions
+[Appendix A: Academic Integrity Procedures](https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html#app_a)
+
+[Appendix B: Academic Integrity Sanctions](https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html#app_b)
 
 # Related Seneca policies
-Academic Appeals Policy
-Freedom of Information and Protection of Privacy Policy
-Student Assessment Policy
-Student Progression and Promotion Policy
+[Academic Appeals Policy](https://www.senecapolytechnic.ca/about/policies/academic-appeal-policy.html)
+
+[Freedom of Information and Protection of Privacy Policy](https://www.senecapolytechnic.ca/about/policies/freedom-of-information-and-protection-of-privacy-policy.html)
+
+[Student Assessment Policy](https://www.senecapolytechnic.ca/about/policies/student-assessment-policy.html)
+
+[Student Progression and Promotion Policy](https://www.senecapolytechnic.ca/about/policies/student-progression-and-promotion-policy.html)
 
 # Related Materials
-Academic Integrity Report (PDF)
-Response to the Academic Integrity Report (PDF)
+[Academic Integrity Report (PDF)](https://www.senecapolytechnic.ca/content/dam/projects/seneca/about/policies/academic-integrity-report.pdf)
+
+[Response to the Academic Integrity Report (PDF)](https://www.senecapolytechnic.ca/content/dam/projects/seneca/about/policies/response-to-the-academic-integrity-report.pdf)
 
 # Appendix A: Academic integrity procedure
 ## Information gathering and assessment
-Action	Duration, unless extenuating circumstances arise	Responsibility
-1. Report the witnessing or suspicion that an academic integrity violation has occurred to the designate in your school/program.	As soon as possible, within a reasonable timeframe to assess the violation, as determined by the chair.	Faculty, invigilator, student, support staff
-2. Inform the student of the witnessed or suspected academic integrity offence and discuss the situation with them informally.	As soon as possible, within a reasonable timeframe to assess the violation, as determined by the chair.	
-Faculty, invigilator, support staff
+| Action | Duration, unless extenuating circumstances arise | Responsibility |
+|--------|--------------------------------------------------|----------------|
+| 1. Report the witnessing or suspicion that an academic integrity violation has occurred to the designate in your school/program. | As soon as possible, within a reasonable timeframe to assess the violation, as determined by the chair. | Faculty, invigilator, student, support staff |
+| 2. Inform the student of the witnessed or suspected academic integrity offence and discuss the situation with them informally. | As soon as possible, within a reasonable timeframe to assess the violation, as determined by the chair. |	Faculty, invigilator, support staff **Note:** If a student has witnessed or suspects an academic integrity violation has occurred, the student can inform the faculty/invigilator or support staff. Every reasonable effort will be made to ensure the anonymity of a student reporting a potential breach. |
+| 3. Collect and retain the in-person or online assessment (e.g., test/examination, lab report, essay, assignment, quiz, video or project) and any related evidence, at the discretion of the faculty/invigilator or support staff. | Within five days of the reported violation	| Faculty, invigilator, support staff | 
+| 3. a) If it is concluded that no academic integrity offence has occurred, inform the student and no further action is required. | As soon as possible, within two Seneca business days. | Faculty |
+| 3. b) If it is concluded that an academic integrity offence has occurred, inform the student and commence the formal process. | As soon as possible, within five Seneca business days. | Faculty |
 
-Note: If a student has witnessed or suspects an academic integrity violation has occurred, the student can inform the faculty/invigilator or support staff.
-
-Every reasonable effort will be made to ensure the anonymity of a student reporting a potential breach. 
-
-3. Collect and retain the in-person or online assessment (e.g., test/examination, lab report, essay, assignment, quiz, video or project) and any related evidence, at the discretion of the faculty/invigilator or support staff.
-
-Within five days of the reported violation	Faculty, invigilator, support staff
-3. a) If it is concluded that no academic integrity offence has occurred, inform the student and no further action is required.	As soon as possible, within two Seneca business days.	Faculty
-3. b) If it is concluded that an academic integrity offence has occurred, inform the student and commence the formal process.	As soon as possible, within five Seneca business days.	Faculty
-
-Note: If the violation is related to the submission of an assessment, all relevant material should be kept by the student’s program area for as long as necessary to resolve the matter.
+**Note:** If the violation is related to the submission of an assessment, all relevant material should be kept by the student’s program area for as long as necessary to resolve the matter.
 
 ## Formal reporting of academic integrity violation
-Action	Duration, unless extenuating circumstances arise	Responsibility
-1. Complete an Academic Integrity Report (PDF).
-
-Within five Seneca business days of the alleged violation	Faculty
-2. Deliver a copy of the completed Academic Integrity Report and a blank Student Response to the Academic Integrity Report (PDF) to the student and specified school liaison electronically.
-
-Within five Seneca business days of the alleged violation	Faculty
-3. At the student’s discretion, submit a completed Student Response to the Academic Integrity Report to the chair and/or specified school liaison.
-
-Within five Seneca business days from receipt of the Academic Integrity Report	Student
-4. Convene a meeting of the Academic Integrity Committee at which the student and/or faculty member may request to join in person or virtually
-
-With 10 Seneca business days from the student’s receipt of the Academic Integrity Report	Academic Integrity Committee chair
-5. Provide the Academic Integrity Committee’s decision in writing to the student, with copies sent to the respective faculty, coordinator, chair and/or specified school liaison.
-
-Within five Seneca business days	Academic Integrity Committee chair
-6. a) If it is concluded that no academic integrity violation has occurred, a letter stating the decision will be prepared and delivered to the student, with a copy delivered to the faculty, chair and/or specified school liaison, electronically or in person. The Academic Integrity Report will be destroyed.	Within five Seneca business days	Academic Integrity Committee chair
-6. b) If it is concluded that an academic integrity violation has occurred, a letter stating the decision, as well as available supports, will be delivered to the student with a copy to the faculty, chair and/or specified school liaison. Sanctions will then be imposed, as outlined in the Academic Integrity Offences – Sanctions document.	Within five Seneca business days of receipt of the Academic Integrity Committee’s decision	Academic Integrity Committee chair/ student
-7. The student may appeal the decision of the Academic Integrity Committee based on Seneca’s Academic Appeal Policy	Within five Seneca business days of receipt of the Academic Integrity Committee’s decision	Student 
+| Action | Duration, unless extenuating circumstances arise | Responsibility |
+|--------|--------------------------------------------------|----------------|
+| 1. Complete an Academic Integrity Report (PDF). | Within five Seneca business days of the alleged violation | Faculty |
+| 2. Deliver a copy of the completed Academic Integrity Report and a blank Student Response to the Academic Integrity Report (PDF) to the student and specified school liaison electronically. | Within five Seneca business days of the alleged violation | Faculty |
+| 3. At the student’s discretion, submit a completed Student Response to the Academic Integrity Report to the chair and/or specified school liaison. | Within five Seneca business days from receipt of the Academic Integrity Report | Student |
+| 4. Convene a meeting of the Academic Integrity Committee at which the student and/or faculty member may request to join in person or virtually | With 10 Seneca business days from the student’s receipt of the Academic Integrity Report | Academic Integrity Committee chair |
+| 5. Provide the Academic Integrity Committee’s decision in writing to the student, with copies sent to the respective faculty, coordinator, chair and/or specified school liaison. | Within five Seneca business days | Academic Integrity Committee chair |
+| 6. a) If it is concluded that no academic integrity violation has occurred, a letter stating the decision will be prepared and delivered to the student, with a copy delivered to the faculty, chair and/or specified school liaison, electronically or in person. The Academic Integrity Report will be destroyed. | Within five Seneca business days | Academic Integrity Committee chair |
+| 6. b) If it is concluded that an academic integrity violation has occurred, a letter stating the decision, as well as available supports, will be delivered to the student with a copy to the faculty, chair and/or specified school liaison. Sanctions will then be imposed, as outlined in the Academic Integrity Offences – Sanctions document. | Within five Seneca business days of receipt of the Academic Integrity Committee’s decision | Academic Integrity Committee chair/ student |
+| 7. The student may appeal the decision of the Academic Integrity Committee based on Seneca’s Academic Appeal Policy | Within five Seneca business days of receipt of the Academic Integrity Committee’s decision | Student | 
 
 # Appendix B: Academic integrity violations – guidelines for sanctions
 ## Overview
